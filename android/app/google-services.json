@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "64266691612",
+    "project_id": "task-1-63f7b",
+    "storage_bucket": "task-1-63f7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64266691612:android:4c27db0daf2411d906abd9",
+        "android_client_info": {
+          "package_name": "com.example.task_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64266691612-01l7h5f19l9km3hu93gvvd0iva02r3gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACqCaBaHIALzH60ue6ZWphI-c36q0NE8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64266691612-01l7h5f19l9km3hu93gvvd0iva02r3gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64266691612:android:d92aa343d552b07c06abd9",
+        "android_client_info": {
+          "package_name": "com.suliman.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64266691612-01l7h5f19l9km3hu93gvvd0iva02r3gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACqCaBaHIALzH60ue6ZWphI-c36q0NE8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64266691612-01l7h5f19l9km3hu93gvvd0iva02r3gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
